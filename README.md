@@ -41,33 +41,31 @@ This project focuses on predicting rice yield in Tamil Nadu, specifically in the
 
 Rice-Yield-Prediction/
 ├─ SourceCode/
-│ ├─ data/
-│ │ ├─ sample_ndvi_wide.csv
-│ │ ├─ synthetic_rice_yield_data.csv
-│ │ ├─ temp_climate.csv
-│ │ └─ training_ready.csv
-│ ├─ models/
-│ │ ├─ labelencoder.pkl
-│ │ ├─ lstm_rice_yield_model.h5
-│ │ └─ scaler.pkl
-│ ├─ app.py
-│ ├─ train.py
-│ ├─ preprocess.py
-│ ├─ fine_tune_synthetic.py
-│ ├─ utils.py
-│ └─ requirements.txt
+│  ├─ data/
+│  │  ├─ sample_ndvi_wide.csv
+│  │  ├─ synthetic_rice_yield_data.csv
+│  │  ├─ temp_climate.csv
+│  │  └─ training_ready.csv
+│  ├─ models/
+│  │  ├─ labelencoder.pkl
+│  │  ├─ lstm_rice_yield_model.h5
+│  │  └─ scaler.pkl
+│  ├─ app.py
+│  ├─ train.py
+│  ├─ preprocess.py
+│  ├─ fine_tune_synthetic.py
+│  ├─ utils.py
+│  └─ requirements.txt
 ├─ Executable/
-│ └─ No executable version available for this project.
+│  └─ No executable version available for this project.
 ├─ Documentation/
-│ ├─ Project_Report.docx
-│ ├─ Final_Viva_PPT.pptx
-│ ├─ Journal_Paper.docx
-│ └─ One_Page_Abstract.docx
+│  ├─ Project_Report.docx
+│  ├─ Final_Viva_PPT.pptx
+│  ├─ Journal_Paper.docx
+│  └─ One_Page_Abstract.docx
 ├─ Video/
-│ └─ Working_Demo.mp4
+│  └─ Working_Demo.mp4
 └─ README.md
-
-
 
 ## How to Run the Project
 
