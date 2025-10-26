@@ -38,7 +38,7 @@ This project focuses on predicting rice yield in Tamil Nadu, specifically in the
 ## Repository Structure
 
 
-Rice-Yield-Prediction/
+## Rice-Yield-Prediction/
  ├─ SourceCode/
  │   ├─ data/
  │   ├─ models/
